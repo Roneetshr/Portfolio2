@@ -1,0 +1,43 @@
+
+h1{
+    color: #FF0000;
+}
+p{
+    color:#008800;    
+}
+/* *{
+   border: solid;
+}*/
+
+.main{
+background-color: rgb(180, 180, 180);
+
+
+}
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
+p,h2{ 
+    text-align: center;    
+}
+.item{
+  border:ridge black;
+  border-radius: 20px;
+  
+}
